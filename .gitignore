@@ -1,0 +1,16 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore XAMPP logs and temp
+/logs/
+/tmp/
+/vendor/
+/node_modules/
+/.idea/
+/.vscode/
+
+# Ignore config files with passwords (edit as needed)
+config.php
+.env
