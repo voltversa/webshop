@@ -1,5 +1,6 @@
 # Webshop Project
-
+![Alt text](webshop.png)
+---
 ##  Overview
 This project is a **PHP & MySQL-based webshop** built with different access levels for:
 - **Visitors** → can browse products
@@ -11,7 +12,7 @@ The system supports **role-based access control**, secure input handling, and a 
 ---
 ## ER Diagram
 [Open the PDF](ER-diagram.pdf)
-
+---
 ##  Features
 
 ###  User Management
