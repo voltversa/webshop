@@ -11,6 +11,5 @@ desktop.ini
 /.idea/
 /.vscode/
 
-# Ignore config files with passwords (edit as needed)
-config.php
+# Ignore config files with passwords
 .env
