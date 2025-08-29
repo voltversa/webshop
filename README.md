@@ -9,6 +9,8 @@ This project is a **PHP & MySQL-based webshop** built with different access leve
 The system supports **role-based access control**, secure input handling, and a simple, user-friendly interface.
 
 ---
+## ER Diagram
+[Open the PDF](ER-diagram.pdf)
 
 ##  Features
 
@@ -73,15 +75,15 @@ The system supports **role-based access control**, secure input handling, and a 
 
 - Create a new database: webshop
 
-- Import webshop.sql (if provided in repo)
+- Import tables.sql
 
 3. Configure database connection:
 Update credentials in config.php:
 
-[$dbHost = "localhost"];
-[$dbUser = "Webuser"];
-[$dbPass = "Lab2024"];
-[$dbName = "webshop"];
+**$dbHost = "localhost"**;
+**$dbUser = "Webuser"**;
+**$dbPass = "Lab2024"**;
+**$dbName = "webshop"]**;
 
 
 4. Start XAMPP and open in browser:
