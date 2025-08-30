@@ -66,11 +66,6 @@ The system supports **role-based access control**, secure input handling, and a 
 ##  Installation
 
 1. Clone the repository into your XAMPP htdocs:
-   ```bash
-   cd /c/xampp/htdocs
-   git clone https://github.com/your-username/webshop.git
-
-   Import the database:
 
 2. Open phpMyAdmin
 
